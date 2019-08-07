@@ -1,0 +1,11 @@
+/Users/harryshen/Documents/Code/C#/Deliverable3/Deliverable3/bin/Debug/netcoreapp2.1/Deliverable3.deps.json
+/Users/harryshen/Documents/Code/C#/Deliverable3/Deliverable3/bin/Debug/netcoreapp2.1/Deliverable3.runtimeconfig.json
+/Users/harryshen/Documents/Code/C#/Deliverable3/Deliverable3/bin/Debug/netcoreapp2.1/Deliverable3.runtimeconfig.dev.json
+/Users/harryshen/Documents/Code/C#/Deliverable3/Deliverable3/bin/Debug/netcoreapp2.1/Deliverable3.dll
+/Users/harryshen/Documents/Code/C#/Deliverable3/Deliverable3/bin/Debug/netcoreapp2.1/Deliverable3.pdb
+/Users/harryshen/Documents/Code/C#/Deliverable3/Deliverable3/obj/Debug/netcoreapp2.1/Deliverable3.csprojAssemblyReference.cache
+/Users/harryshen/Documents/Code/C#/Deliverable3/Deliverable3/obj/Debug/netcoreapp2.1/Deliverable3.csproj.CoreCompileInputs.cache
+/Users/harryshen/Documents/Code/C#/Deliverable3/Deliverable3/obj/Debug/netcoreapp2.1/Deliverable3.AssemblyInfoInputs.cache
+/Users/harryshen/Documents/Code/C#/Deliverable3/Deliverable3/obj/Debug/netcoreapp2.1/Deliverable3.AssemblyInfo.cs
+/Users/harryshen/Documents/Code/C#/Deliverable3/Deliverable3/obj/Debug/netcoreapp2.1/Deliverable3.dll
+/Users/harryshen/Documents/Code/C#/Deliverable3/Deliverable3/obj/Debug/netcoreapp2.1/Deliverable3.pdb

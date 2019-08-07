@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B37243E9-BBF5-4EE8-A46A-B58D8607FFE9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Deliverable3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Deliverable3/Passenger.cs">
+    <Files>
+      <File FileName="Deliverable3/Program.cs" Line="63" Column="46" />
+      <File FileName="Deliverable3/Passenger.cs" Line="69" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Deliverable3" expanded="True">
+            <Node name="Deliverable3" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Passenger.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
